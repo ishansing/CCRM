@@ -382,22 +382,21 @@ This project was developed as part of Java Programming coursework, demonstrating
 
 ### References
 
--   **Official Java Documentation**:
-    -   [Oracle Java Documentation](https://docs.oracle.com/en/java/)
--   **Books for Deeper Understanding**:
-    -   "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
-    -   "Head First Java" by Kathy Sierra and Bert Bates
-    -   "Java Concurrency in Practice" by Brian Goetz
--   **Online Learning Platforms/Communities**:
-    -   [Baeldung](https://www.baeldung.com/)
-    -   [Stack Overflow](https://stackoverflow.com/questions/tagged/java)
+- **Official Java Documentation**:
+  - [Oracle Java Documentation](https://docs.oracle.com/en/java/)
+- **Books for Deeper Understanding**:
+  - "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
+  - "Head First Java" by Kathy Sierra and Bert Bates
+  - "Java Concurrency in Practice" by Brian Goetz
+- **Online Learning Platforms/Communities**:
+  - [Baeldung](https://www.baeldung.com/)
+  - [Stack Overflow](https://stackoverflow.com/questions/tagged/java)
 
 ---
 
-**Author**: Ishan Singh
-**Reg. No.**: 24MIP10032
+**Author**: Ishan Singh  
+**Reg. No.**: 24MIP10032  
 **Course**: Programming in Java  
-**Institution**: Vellore Institute of Technology, Bhopal
-**Date**: 15-09-2025
+**Institution**: Vellore Institute of Technology, Bhopal  
+**Date**: 15-09-2025  
 **Version**: 1.0
-
